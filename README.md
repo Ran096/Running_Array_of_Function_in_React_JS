@@ -1,0 +1,2 @@
+# Running_Array_of_Function_in_React_JS
+Created with CodeSandbox
